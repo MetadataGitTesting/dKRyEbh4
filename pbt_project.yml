@@ -1,0 +1,49 @@
+name: kylie.raynor
+description: contextually-based
+version: 0.0.1
+author: 2imakajq.eapqkwaz@bhotzdmd.com
+language: scala
+buildSystem: ''
+buildSystemDetails:
+  artefactID: kylieraynor
+  parentArtefactID: ''
+  buildSystem: maven
+  author: null
+  createdAt: '2024-12-20 20:26:52'
+pipelines: {}
+datasets: {}
+templates: {}
+jobs: {}
+gemContainer:
+  languageVersion: ''
+  gemLibsVersion: ''
+  gems: {}
+  dependencies: null
+functions:
+  author: null
+  createdAt: '2024-12-20 20:26:52'
+  udfs: {}
+  udafs: {}
+  expressions: {}
+  airflowFunctions: {}
+  businessRules: {}
+subgraphs: {}
+sqlModels: {}
+sqlSnapshots: {}
+sqlTests: {}
+sqlMacros: {}
+sqlSeeds: {}
+sqlSources: {}
+sqlUnreferencedSources: {}
+sqlPipeline: null
+dependencies:
+- modifiedAt: '2024-12-20T20:26:52.528257Z'
+  name: plibMaven
+  version: 8.8.0-SNAPSHOT
+  id: '195240755'
+  createdAt: '2024-12-20T20:26:52.528257Z'
+  type: plibMaven
+projectDependencies: {}
+flags:
+  shouldAddDefaultDependenciesIfAbsent: true
+pipelineConfigurations: {}
